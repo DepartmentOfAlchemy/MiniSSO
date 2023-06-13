@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name "dk_Transistors-FETs-MOSFETs-Single")(type "Legacy")(uri "/Users/peteje/other/dev/digi-key/digikey-kicad-library/digikey-symbols/dk_Transistors-FETs-MOSFETs-Single.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "dk_Transistors-FETs-MOSFETs-Single")(type "Legacy")(uri "/Users/peteje/other/dev/digi-key/digikey-kicad-library/digikey-symbols/dk_Transistors-FETs-MOSFETs-Single.lib")(options "")(descr "")(disabled))
+  (lib (name "Department of Alchemy")(type "KiCad")(uri "C:/Users/jesse/dev/DepartmentOfAlchemy/doa-kicad-library/6-symbol-library/doa-symbol-library.kicad_sym")(options "")(descr ""))
 )
